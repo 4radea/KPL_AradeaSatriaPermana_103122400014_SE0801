@@ -1,4 +1,4 @@
-TUGAS KPL
-Nama: Aradea Satria Permana
-NIM: 103122400014
-Kelas: SE-08-01
+KPL\n
+Aradea Satria Permana\n
+103122400014\n
+SE-08-01
