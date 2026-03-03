@@ -1,0 +1,20 @@
+{
+  "name": "02_pemrograman_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/4radea/KPL_AradeaSatriaPermana_103122400014_SE0801#readme",
+  "bugs": {
+    "url": "https://github.com/4radea/KPL_AradeaSatriaPermana_103122400014_SE0801/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4radea/KPL_AradeaSatriaPermana_103122400014_SE0801.git"
+  },
+  "license": "ISC",
+  "author": "Aradea Satria Permana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
