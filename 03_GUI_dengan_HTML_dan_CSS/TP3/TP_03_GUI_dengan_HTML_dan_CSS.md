@@ -1,6 +1,6 @@
 # TUGAS PENDAHULUAN 03: GUI DENGAN HTML DAN CSS
-Nama: Aradea Satria Permana
-NIM: 103122400014
+Nama : Aradea Satria Permana
+NIM  : 103122400014
 Kelas: SE-08-01
 
 ## SOAL
