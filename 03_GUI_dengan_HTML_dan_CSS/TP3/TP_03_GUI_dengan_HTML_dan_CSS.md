@@ -1,7 +1,9 @@
 # TUGAS PENDAHULUAN 03: GUI DENGAN HTML DAN CSS
+<pre>
 Nama : Aradea Satria Permana
 NIM  : 103122400014
 Kelas: SE-08-01
+</pre>
 
 ## SOAL
 Buatlah tata letak laman yang kamu buat berada di tengah seperti di bawah ini, dan juga ubah font-nya dengan Inconsolata dari Google Fonts.
