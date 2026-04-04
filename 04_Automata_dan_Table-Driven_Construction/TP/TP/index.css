@@ -1,0 +1,110 @@
+body {
+    font-family: "Inconsolata", monospace;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    transition: all 0.3s ease;
+}
+
+/* container */
+.container {
+    width: 600px;
+    text-align: center;
+}
+
+/* textarea */
+.kotak-input {
+    display: block;
+    resize: none;
+    width: 100%;
+    padding: 10px;
+    font-family: "Inconsolata", monospace;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+/* teks angka */
+p > span {
+    color: coral;
+    font-weight: bold;
+}
+
+/* tombol default (mode terang) */
+button {
+    background-color: #e0e0e0;
+    color: #000;
+    border: 1px solid #aaa;
+    padding: 10px 18px;
+    margin: 5px;
+    border-radius: 6px;
+    font-family: "Inconsolata", monospace;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #d5d5d5;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+/* ================= DARK MODE ================= */
+.mode-gelap {
+    background-color: #171b25;
+    color: #EBECF7;
+}
+
+.mode-gelap .kotak-input {
+    background-color: #2e3443;
+    color: #EBECF7;
+    border: none;
+}
+
+.mode-gelap button {
+    background-color: #29ddcc;
+    color: #000;
+    border: none;
+}
+
+.mode-gelap button:hover {
+    background-color: #20bfb0;
+}
+
+/* ================= SEPIA MODE ================= */
+.mode-sepia {
+    background-color: #F4ECD8;
+    color: #5B4636;
+}
+
+.mode-sepia .kotak-input {
+    background-color: #ffffff;
+    color: #5B4636;
+    border: 1px solid #d2c4a3;
+}
+
+/* 🔥 tombol jadi HIJAU TERANG */
+.mode-sepia button {
+    background-color: #29ddcc;
+    color: #000;
+    border: none;
+}
+
+/* hover */
+.mode-sepia button:hover {
+    background-color: #20bfb0;
+}
+
+/* tombol aktif */
+.mode-sepia button.active {
+    background-color: #0ea89a;
+    color: #ffffff;
+}
+
+/* tombol aktif di mode sepia */
+.mode-sepia button.active {
+    background-color: #a68b5b;
+    color: #fff;
+}
