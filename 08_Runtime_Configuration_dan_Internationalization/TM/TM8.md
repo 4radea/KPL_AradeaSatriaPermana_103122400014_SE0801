@@ -4,7 +4,7 @@ NIM: 103122400014
 Kelas: SE-08-01
 
 ## Kode Sumber
-Tersedia di (index.js) [index.js]
+Tersedia di [index.js](index.js) 
 
 ## Output
 <img width="1139" height="195" alt="image" src="https://github.com/user-attachments/assets/268430ac-6900-457c-a27a-7be125294ed3" />
