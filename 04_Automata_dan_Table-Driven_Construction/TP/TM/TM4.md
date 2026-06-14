@@ -12,7 +12,7 @@ Ketentuan lainnya:
 Bagian mode-div harus menaungi tiga button: light, dark, dan sepia Bisa berpindah state secara mulus: sepia menghasilkan sepia-mode, dark menghasilkan dark-mode, dan light menghasilkan light-mode.
 
 # Kode Sumber
-Tersedia di (index.html)[index.html] Tersedia di (index.css)[index.css] Tersedia di (index.js)[index.js]
+Tersedia di [index.html](index.html), [index.css](index.css), [index.js](index.js)
 
 # Output
 <img width="1034" height="717" alt="image" src="https://github.com/user-attachments/assets/9972f6c1-3fc9-4635-a246-aeda1bd7cf64" />
