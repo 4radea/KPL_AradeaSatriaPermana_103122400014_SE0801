@@ -10,7 +10,7 @@ Kelas : SE-08-01
 
 # Kode sumber
 
-Tersedia di (fizz.js)[ifizz.js] (test.js)[test.js]
+Tersedia di [ifizz.js](fizz.js), [test.js](test.js)
 
 # Output
 <img width="910" height="461" alt="image" src="https://github.com/user-attachments/assets/6027e3ef-ab00-4070-be3b-1df2fd53f718" />
