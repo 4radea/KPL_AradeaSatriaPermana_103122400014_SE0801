@@ -7,7 +7,7 @@ Kelas: SE-08-01
 Buatlah satu endpoint lagi beserta dokumentasi OpenAPI-nya, yaitu GET /menu yang menampilkan daftar semua nama kategori menu yang ada.
 
 ## Kode Sumber
-Tersedia di (index.js) [index.js] Tersedia di (swagger.js) [swagger.js]
+Tersedia di [index.js](index.js), [swagger.js](swagger.js)
 
 ## Output
 <img width="832" height="400" alt="image1" src="https://github.com/user-attachments/assets/7bf0a9c1-2eb6-4a93-a4a5-c3e6c899330d" />
