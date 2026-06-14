@@ -3,7 +3,7 @@ Nama: Aradea Satria Permana NIM: 103122400014
 Kelas: SE-08-01
 
 ## Kode Sumber
-Tersedia di [script.js](script.js)
+Tersedia di [index.js](index.js)
 
 ## Output
 <img width="1140" height="316" alt="image" src="https://github.com/user-attachments/assets/cc876506-ba83-4c1b-ad38-bce37bed3829" />
